@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d03978ad-6dfd-4b14-a146-1022db145f99" name="Default Changelist" comment="" />
+    <list default="true" id="d03978ad-6dfd-4b14-a146-1022db145f99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/studentdemo/target/" />
@@ -35,6 +37,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -101,14 +106,30 @@
     <option name="width" value="1635" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo02" type="462c0819:PsiDirectoryNode" />
+              <item name="studentdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,7 +140,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592149808321" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592150741206" />
     <property name="last_opened_file_path" value="F:/demo02" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -177,14 +198,23 @@
       <updated>1592029247509</updated>
       <workItem from="1592029254059" duration="7612000" />
       <workItem from="1592148654836" duration="1175000" />
+      <workItem from="1592150511635" duration="272000" />
     </task>
+    <task id="LOCAL-00001" summary="99">
+      <created>1592150707570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592150707570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8787000" />
+    <option name="totallyTimeSpent" value="9059000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="797" y="0" width="1308" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -192,11 +222,11 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Image Layers" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.21216974" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.17773306" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32970452" />
       <window_info anchor="bottom" id="Spring" order="1" weight="0.32970452" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.3308715" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32844576" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" weight="0.32970452" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
@@ -224,6 +254,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="99" />
+    <option name="LAST_COMMIT_MESSAGE" value="99" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
