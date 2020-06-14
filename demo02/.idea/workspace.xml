@@ -95,8 +95,9 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=local" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="996" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1635" />
     <option name="height" value="1040" />
   </component>
@@ -118,7 +119,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592149579656" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592149808321" />
+    <property name="last_opened_file_path" value="F:/demo02" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -174,12 +176,12 @@
       <option name="presentableId" value="Default" />
       <updated>1592029247509</updated>
       <workItem from="1592029254059" duration="7612000" />
-      <workItem from="1592148654836" duration="1044000" />
+      <workItem from="1592148654836" duration="1175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8656000" />
+    <option name="totallyTimeSpent" value="8787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="797" y="0" width="1308" height="832" extended-state="0" />
