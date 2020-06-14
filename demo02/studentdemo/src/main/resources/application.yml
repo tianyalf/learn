@@ -1,0 +1,30 @@
+spring:
+  profiles:
+    active: dev
+  datasource:
+    username: c##root
+    password: root
+    url: jdbc:oracle:thin:@//192.168.1.101:1521/orcl
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+
+server:
+  port: 8080
+
+freemarker:
+  checkTemplateLocation: false
+
+
+mybatis:
+#  mapper-locations: classpath*:resources/mapper/oracle/*.xml
+  mapper-locations: classpath*:com/example/studentdemo/datasource/dao/*.xml
+  type-aliases-package: com.example.studentdemo.datasource.entity.Student
+
+
+
+
+
+
+
+
+
+
